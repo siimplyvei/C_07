@@ -125,7 +125,7 @@
 
 ## :heavy_exclamation_mark: archivos 1
 
-![](images/archivos_1_cpp.png)
+![](images/archivo_1_cpp.png)
 
 ## :o: Salida
 
@@ -135,7 +135,7 @@
 
 ## :heavy_exclamation_mark: archivos 2
 
-![](images/archivos_2_cpp.png)
+![](images/archivo_2_cpp.png)
 
 ## :o: Salida
 
