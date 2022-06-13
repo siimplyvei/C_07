@@ -14,89 +14,168 @@
 
 ## :radio_button: eof get y put.cpp
 
-![](images/static_cast.png)
+![](images/eof_get_y_put_cpp.png)
 
----
 
 ## :white_square_button: Salida
 
-![](images/static_cast_salida.png)
+![](images/eof_get_y_put_salida.png)
 
 ---
 
-## :black_circle: Static vs Dynamic Cast 1/3
+## :black_circle: Cin y Cin - get
 
-![](images/static_cast_vs_dynamic_cast_p1.png)
+![](images/cin_y_cin_getline_cpp.png)
 
 ## :white_circle: Salida
 
-![](images/static_cast_vs_dynamic_cast_p1_salida.png)
+![](images/sin_y_cin_getline_salida.png)
 
 ---
 
-## :black_circle: Static vs Dynamic Cast 2/3
+## :black_circle: Cin - getline
 
-![](images/static_cast_vs_dynamic_cast_p2.png)
+![](images/cin_getline_cpp.png)
 
 ## :white_circle: Salida
 
-![](images/static_cast_vs_dynamic_cast_p2_salida.png)
+![](images/cin_getline_salida.png)
 
 ---
 
-## ::black_circle: Static vs Dynamic Cast 3/3
+## ::black_circle: read y write
 
-![](images/static_cast_vs_dynamic_cast_p3.png)
+![](images/read_y_write_cpp.png)
 
 ## :white_circle: Salida
 
-![](images/static_cast_vs_dynamic_cast_p3_salida.png)
+![](images/read_y_write_salida.png)
 
 ---
 
-##  :black_large_square:  Funciones Virtuales.cpp
+##  :black_large_square:  Decimal, Octal, Hexadecimal y setbase 1
 
-![](images/funciones_virtuales.png)
+![](images/dec_oct_hex_y_setbase(1)_cpp.png)
 
 ## :white_large_square: Salida
 
-![](images/funciones_virtuales_salida.png)
+![](images/dec_oct_hex_y_setbase(1)_salida.png)
 
 ---
 
-## :heavy_plus_sign: Typeid.cpp
+## :heavy_plus_sign: Decimal, Octal, Hexadecimal y setbase 2
 
-![](images/typeid.png)
+![](images/dec_oct_hex_y_setbase(2)_cpp.png)
 
 ## :heavy_minus_sign: Salida
 
-![](images/typeid_salida.png)
+![](images/dec_oct_hex_y_setbase(2)_salida.png)
 
 ---
 
-## :heavy_exclamation_mark: Sobrecarga de Operadores 1/2.cpp
+## :heavy_exclamation_mark: Cout Width
 
-![](images/sobrecarga_operadores_p1.png)
+![](images/cout_width_cpp.png)
 
 ## :o: Salida
 
-![](images/sobrecarga_operadores_p1_salida.png)
+![](images/cout_width_salida.png)
 
 ---
 
-## :heavy_exclamation_mark: Sobrecarga de Operadores 2/2.cpp
+## :heavy_exclamation_mark: cout setw 1
 
-![](images/sobrecarga_operadores_p2.png)
+![](images/cout_setw_cpp.png)
 
 ## :o: Salida
 
-![](images/sobrecarga_operadores_p2_salida.png)
+![](images/cout_setw_salida.png)
+
+---
+
+## :heavy_exclamation_mark: cout setw 2
+
+![](images/cout_setw_2_cpp.png)
+
+## :o: Salida
+
+![](images/cout_setw_2_salida.png)
+
+---
+
+## :heavy_exclamation_mark: scientific y fixed
+
+![](images/scientific_y_fixed_cpp.png)
+
+## :o: Salida
+
+![](images/scientific_y_fixed_salida.png)
+
+---
+
+## :heavy_exclamation_mark: ascii
+
+![](images/ascii_cpp.png)
+
+## :o: Salida
+
+![](images/ascii_salida.png)
+
+---
+
+## :heavy_exclamation_mark: archivos 1
+
+![](images/archivos_1_cpp.png)
+
+## :o: Salida
+
+![](images/archivo_1_salida.png)
+
+---
+
+## :heavy_exclamation_mark: archivos 2
+
+![](images/archivos_2_cpp.png)
+
+## :o: Salida
+
+![](images/archivo_2_salida.png)
+
+---
+
+## :heavy_exclamation_mark: contacto.h
+
+![](images/contacto_h.png)
+
+## :o: Contacto.cpp
+
+![](images/contacto_cpp.png)
+
+---
+
+## :heavy_exclamation_mark: funciones.h
+
+![](images/funciones_h.png)
+
+## :o: funciones.cpp
+
+![](images/funciones_cpp.png)
+
+---
+
+## :heavy_exclamation_mark: acceso aleatorio
+
+![](images/acceso_aleatorio_cpp.png)
+
+## :o: salida
+
+![](images/funciones_cpp.png)
 
 ---
 
 ## :computer: Código
 
-- :blue_book: [C_06](https://github.com/siimplyvei/C_06)
+- :blue_book: [C_07](https://github.com/siimplyvei/C_07)
 
 ---
 #### Herramientas:
